@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  overflow-x: hidden;
+}
+
+.language {
+  width: 30px;
+  height: 20px
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 1rem
+}

@@ -1,0 +1,13 @@
+.movie-line {
+    display: flex;
+    /* background: rosybrown; */
+    height: 2rem;
+    padding: 0.5rem 0;
+    align-items: center;
+    gap: 1rem;
+    border-bottom: 1px dashed #313131
+}
+
+.movie-line:last-child {
+    border-bottom: none
+}
